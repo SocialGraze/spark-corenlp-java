@@ -6,4 +6,4 @@ introduced in Stanford CoreNLP 3.6.0.
 
 This package requires Java 8 and CoreNLP 3.6.0 to run.
 Users must include CoreNLP model jars as dependencies to use language models.
-
+# TO DO Finalize this Readme
