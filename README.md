@@ -1,4 +1,4 @@
-# corenlp-java
+# spark-corenlp-java
 
 This package wraps [Stanford CoreNLP](http://stanfordnlp.github.io/CoreNLP/) annotators as Spark
 DataFrame functions following the [simple APIs](http://stanfordnlp.github.io/CoreNLP/simple.html)
